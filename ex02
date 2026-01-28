@@ -1,0 +1,16 @@
+02) 20 colegas de trabalho resolveram fazer uma aposta e premiar aqueles que mais acertassem os resultados dos
+    jogos de um campeonato de futebol.
+
+    Sabendo que cada pessoa contribuiu com 30 reais e que os prêmios seriam distribuídos da seguinte forma:
+
+    1º primeiro colocado: 1/2 do valor arrecadado;
+    2º primeiro colocado: 1/3 do valor arrecadado;
+    3º primeiro colocado: recebe a quantia restante.
+    Quanto, respectivamente, cada participante premiado recebeu?
+
+    20 x 30 = 600
+
+    (primeiro multiplico o valor total com o númerador e depois divido com o denominador)
+    600 x 1/2 = 300
+    600 x 1/3 = 200
+    restante = 100
